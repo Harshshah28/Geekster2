@@ -42,11 +42,11 @@ Give a :star2: if this project healped you!
 
 ## :memo: License
 
-Copyright 2023 [Saurabh Giri.](https://www.linkedin.com/in/saurabh-giri-982a16229)
+Copyright 2023 [HarshShah](https://www.linkedin.com/in/shah-harsh-991269187)
 This project is [Geekster](https://www.geekster.in/) licensed .
 
 ___
-This README was generated with :heart: by [Saurabh giri.](https://instagram.com/_saurabhg_16_?igshid=ZDdkNTZiNTM=)
+This README was generated with :heart: by [HarshShah]
 
 
 
