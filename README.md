@@ -26,7 +26,7 @@
  
  :bust_in_silhouette: Harsh Shah
  * HackerRank : [@HarshShah](https://www.hackerrank.com/Harsh_shah28)
- * github : [@HarshShah](https://github.com/SaurabhGiri16/git03/blob/main/README.md "github")
+ * github : [@HarshShah](https://github.com/Harshshah28/ "github")
  <br>
  
  ## :handshake: Contributing
